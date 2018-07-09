@@ -1,5 +1,3 @@
-# hello-world
-Just another repository
-Hi!
+# Ethics is Maths
 
-lorem ipsum dolor ...
+Repository of documents for the Ethics in Maths summer project
